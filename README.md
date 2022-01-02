@@ -1,9 +1,9 @@
 Group members: 
-- Sophia Adrangi 405484745
-- Zachariah Mustafa 705347196
-- Richard Jiang 105571046
-- Katelyn Yu 805485347
-- Arvind Kalyan 405512343
+- Sophia Adrangi
+- Zachariah Mustafa
+- Richard Jiang
+- Katelyn Yu
+- Arvind Kalyan
 
 After you clone the repository, to get the development servers running, do the following:
 
